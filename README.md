@@ -4,6 +4,3 @@
 - 1 xícara de açúcar
 - 1 xícara de chocolate em pó
 - 1 xícara de leite
-- Role até embaixo → em Commit changes, escreva a
-mensagem:
-Adiciona receita de bolo de chocolate.# site-receitas
